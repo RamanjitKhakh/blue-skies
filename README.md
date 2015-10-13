@@ -8,4 +8,5 @@ All resources and audio are not mine, this project is meant for personal use onl
 Go to the root of repo:
 
 > npm install http-server
+
 > http-server
